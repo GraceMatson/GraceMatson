@@ -1,5 +1,5 @@
-### Hey there, I'm Grace! 👋
-I'm Grace, an enthusiastic learner exploring various fields.
+### Hey there! 👋
+I'm Grace Matson, an enthusiastic learner exploring various fields from Bangalore, India.
 <!--
 **GraceMatson/GraceMatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +23,14 @@ Here are some ideas to get you started:
 - 📫 You can reach me at: gracemarymatson@gmail.com or m.grace@iitg.ac.in.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love playing music
+
+---
+#### Profile Visits
+
+<br>
+
+![Profile views](https://gpvc.arturio.dev/GraceMatson)
+
+
+
+---
